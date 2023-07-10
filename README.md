@@ -7,3 +7,7 @@ In this project, I've build a multi-headed model that’s capable of detecting d
 * Sklearn
 * Tensorflow
 * Keras
+
+# Demo Video
+https://github.com/ronakpanchalk9/toxic-comment/assets/75179003/b9d6ea8a-d2b6-4a08-b910-b460e1a54dc2
+
